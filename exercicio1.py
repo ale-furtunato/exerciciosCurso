@@ -1,0 +1,12 @@
+# nome = input("Digite seu nome: ")
+# sobrenome = input("Digite seu sobrenome: ")
+# idade = int(input("Digite sua idade: "))
+# ano_nasc = int(input("Digite o ano que voce nasceu: "))
+altura = float(input("Digite sua altura: "))
+
+# print(f"Seu nome e: {nome} ")
+# print(f"Seu sobrenome e: {sobrenome}")
+# print(f"a sua idade e: {idade}")
+# print(f"Nasceu no ano de {ano_nasc}")
+# print(f"E maior de idade? {idade >= 18}")
+print(f"altura em metros: {altura / 100}metros")
